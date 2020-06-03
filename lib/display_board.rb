@@ -2,7 +2,7 @@
 def display_board
   #board= "   |   |   \n -----------\n   |   |   \n -----------\n  # |   |   \n"
   #puts board
-  puts "  |   |   "
+  puts "  |   |  "
   puts "-----------"
   puts "  |   |  "
   puts "-----------"
